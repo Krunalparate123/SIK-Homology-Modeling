@@ -8,7 +8,7 @@ The focus was on **SIK1B isoform** using homology modelling and molecular dockin
 - Swiss Model, Modeller (Homology modelling)  
 - PyMOL, UCSF Chimera (Visualization)  
 - CASTp (Active site prediction)  
-- AutoDock Vina, Discovery Studio (Docking)  
+- AutoDock, Discovery Studio (Docking)  
 
 📂 Repository Contents
 - `report/` → Internship report (IEEE format).  
